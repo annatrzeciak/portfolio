@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /
+
+Sitemap: https://www.code-way.com/sitemap.xml
